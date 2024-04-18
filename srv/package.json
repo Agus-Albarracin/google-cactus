@@ -1,0 +1,10 @@
+{
+    "name": "cactus-google-srv",
+    "version": "1.0.1",
+    "description": "Cactus google for fast request, get response since react-oauth/google and save to basic info in data base.",
+    "main": "dist/srv.js", 
+    "types": "dist/srv.d.ts",
+    "scripts": {
+      "dev": "node dist/srv.js" 
+    }
+  }

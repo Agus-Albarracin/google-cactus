@@ -10,7 +10,7 @@ Puedes ver incluso en la consola la respuesta de manera que la misma contiene la
 A diferencia de hace unos años, cuando se usaba la libreria de **react-google-login:** ( obtén más información desde npm: https://www.npmjs.com/package/react-google-login , **esta libreria se encuentra obsoleta.** ), la libreria de **@react-oauth/google** no devuelve el objeto profileObj, el cual obtenias el objeto de con la información de usuario.
 **Es importante aclarar** que esta libreria no pertenece directamente al equipo de React y recomiendo usar las librerias que empiecen con **@react** que son de la organización.
 
-![alt text](assest/image.png)
+![Imagen de obtención de datos.](https://res.cloudinary.com/do1hcqjpe/image/upload/v1713479182/vcm5cxvewrqkqx12dtjr.jpg)
 
 ## Peticiones
 
@@ -22,7 +22,7 @@ Necesitaremos de un Back-end en donde se procesen nuestras peticiones y podamos 
 
 Y es acá en donde propongo soluciones pero para entender de que se trata primero quiero mostrarte algunos posibles errores al utilizar este componente que nos brinda React / Google.
 
-![alt text](assest/image-2.png)
+![Error al post, react-google-login](https://res.cloudinary.com/do1hcqjpe/image/upload/v1713481447/k8lnyqsbq66mgyk5kah8.jpg)
 
 Este error es concurrente a la hora de programar...
 
@@ -35,7 +35,7 @@ Acá les dejo algunos de los metodos que les podría interesar: **verifyIdToken*
 
 Incluso utilizando esta libreria en nuestro controlador podriamos tener errores comúnes como:
 
-![alt text](assest/image-1.png)
+![Error 500 server: google-auth-library](https://res.cloudinary.com/do1hcqjpe/image/upload/v1713480996/uab6pxr94usorzlf0hjc.jpg)
 
 ## Soluciones
 
