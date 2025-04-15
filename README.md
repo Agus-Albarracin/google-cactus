@@ -1,5 +1,5 @@
 <br><br><h1 align="center"> 🌵 🌵 🌵  google-cactus 🌵 🌵 🌵 </h1>
-Link to page: https://cactus-webpage.vercel.app/
+
 NMP Page: https://www.npmjs.com/package/google-cactus
 
 <br><br>
